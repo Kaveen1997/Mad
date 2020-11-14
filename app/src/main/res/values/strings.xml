@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">JokeApp</string>
+    <string name="password">password</string>
+    <string name="confirmPassword">confirmPassword</string>
+    <string name="email">email</string>
+    <string name="register">register</string>
+    <string name="login">login</string>
+</resources>
